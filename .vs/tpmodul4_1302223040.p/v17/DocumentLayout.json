@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1.Programming\\tpmodul4_1302223040.p\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64C9F21E-0192-4EA5-93B0-29DA931A2A7C}|tpmodul4_1302223040.p\\tpmodul4_1302223040.p.csproj|d:\\1.programming\\tpmodul4_1302223040.p\\tpmodul4_1302223040.p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64C9F21E-0192-4EA5-93B0-29DA931A2A7C}|tpmodul4_1302223040.p\\tpmodul4_1302223040.p.csproj|solutionrelative:tpmodul4_1302223040.p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\1.Programming\\tpmodul4_1302223040.p\\tpmodul4_1302223040.p\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_1302223040.p\\Program.cs",
+              "ToolTip": "D:\\1.Programming\\tpmodul4_1302223040.p\\tpmodul4_1302223040.p\\Program.cs",
+              "RelativeToolTip": "tpmodul4_1302223040.p\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T13:09:02.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
