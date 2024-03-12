@@ -1,6 +1,4 @@
-﻿using static tpmodul4_1302223040.p.KodePos;
-
-namespace tpmodul4_1302223040.p
+﻿namespace tpmodul4_1302223040.p
 {
     public class KodePos
     {
@@ -21,11 +19,43 @@ namespace tpmodul4_1302223040.p
         
     }
 
+
+    public class DoorMachine
+    {
+        public enum State { TERKUNCI, TERBUKA }
+        State state = State.TERKUNCI;
+        
+        public void ChangeState(State newState)
+        {
+            state = newState;
+            if (state == State.TERKUNCI)
+            {
+                Console.WriteLine("Pintu terkunci");
+            }
+            else if (state == State.TERBUKA)
+            {
+                Console.WriteLine("Pintu tidak terkunci");
+            }
+        }
+
+        public void DisplayState()
+        {
+            Console.WriteLine("Status Pintu Sekarang: " + state);
+        }
+    }
+
     internal class Programs
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Kode pos Batununggal: " + KodePos.GetKodePos(KodePos.Kelurahan.Batununggal));
+                
+            DoorMachine machine = new DoorMachine();
+            machine.DisplayState();
+            machine.ChangeState(DoorMachine.State.TERBUKA);
+            machine.DisplayState();
+            machine.ChangeState(DoorMachine.State.TERKUNCI);
+            machine.DisplayState();
         }
     }
 }
