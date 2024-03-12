@@ -12,3 +12,4 @@ D:\1.Programming\tpmodul4_1302223040.p\tpmodul4_1302223040.p\obj\Debug\net8.0\re
 D:\1.Programming\tpmodul4_1302223040.p\tpmodul4_1302223040.p\obj\Debug\net8.0\tpmodul4_1302223040.p.pdb
 D:\1.Programming\tpmodul4_1302223040.p\tpmodul4_1302223040.p\obj\Debug\net8.0\tpmodul4_1302223040.p.genruntimeconfig.cache
 D:\1.Programming\tpmodul4_1302223040.p\tpmodul4_1302223040.p\obj\Debug\net8.0\ref\tpmodul4_1302223040.p.dll
+D:\1.Programming\tpmodul4_1302223040.p\tpmodul4_1302223040.p\obj\Debug\net8.0\tpmodul4_1302223040.p.sourcelink.json
